@@ -13,8 +13,8 @@ namespace NETCoreWebAPISQLServerAzure.Controllers
                 ("Server=tcp:enriqueazure.database.windows.net,1433;" +
                 "Initial Catalog=informacion;" +
                 "Persist Security Info=False;" +
-                "User ID=enrique;" +
-                "Password=Mexico2018;" +
+                "User ID=;" +
+                "Password=;" +
                 "MultipleActiveResultSets=False;" +
                 "Encrypt=True;" +
                 "TrustServerCertificate=False;" +
@@ -43,8 +43,8 @@ namespace NETCoreWebAPISQLServerAzure.Controllers
                 ("Server=tcp:enriqueazure.database.windows.net,1433;" +
                 "Initial Catalog=informacion;" +
                 "Persist Security Info=False;" +
-                "User ID=enrique;" +
-                "Password=Mexico2018;" +
+                "User ID=;" +
+                "Password=;" +
                 "MultipleActiveResultSets=False;" +
                 "Encrypt=True;" +
                 "TrustServerCertificate=False;" +
