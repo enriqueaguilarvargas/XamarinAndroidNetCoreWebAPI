@@ -1,0 +1,11 @@
+C:\Users\Enrique\source\repos\NETCoreWebAPISQLServerAzure\NETCoreWebAPISQLServerAzure\bin\Debug\netcoreapp2.0\NETCoreWebAPISQLServerAzure.deps.json
+C:\Users\Enrique\source\repos\NETCoreWebAPISQLServerAzure\NETCoreWebAPISQLServerAzure\bin\Debug\netcoreapp2.0\NETCoreWebAPISQLServerAzure.runtimeconfig.json
+C:\Users\Enrique\source\repos\NETCoreWebAPISQLServerAzure\NETCoreWebAPISQLServerAzure\bin\Debug\netcoreapp2.0\NETCoreWebAPISQLServerAzure.runtimeconfig.dev.json
+C:\Users\Enrique\source\repos\NETCoreWebAPISQLServerAzure\NETCoreWebAPISQLServerAzure\bin\Debug\netcoreapp2.0\NETCoreWebAPISQLServerAzure.dll
+C:\Users\Enrique\source\repos\NETCoreWebAPISQLServerAzure\NETCoreWebAPISQLServerAzure\bin\Debug\netcoreapp2.0\NETCoreWebAPISQLServerAzure.pdb
+C:\Users\Enrique\source\repos\NETCoreWebAPISQLServerAzure\NETCoreWebAPISQLServerAzure\obj\Debug\netcoreapp2.0\NETCoreWebAPISQLServerAzure.csprojAssemblyReference.cache
+C:\Users\Enrique\source\repos\NETCoreWebAPISQLServerAzure\NETCoreWebAPISQLServerAzure\obj\Debug\netcoreapp2.0\NETCoreWebAPISQLServerAzure.csproj.CoreCompileInputs.cache
+C:\Users\Enrique\source\repos\NETCoreWebAPISQLServerAzure\NETCoreWebAPISQLServerAzure\obj\Debug\netcoreapp2.0\NETCoreWebAPISQLServerAzure.AssemblyInfoInputs.cache
+C:\Users\Enrique\source\repos\NETCoreWebAPISQLServerAzure\NETCoreWebAPISQLServerAzure\obj\Debug\netcoreapp2.0\NETCoreWebAPISQLServerAzure.AssemblyInfo.cs
+C:\Users\Enrique\source\repos\NETCoreWebAPISQLServerAzure\NETCoreWebAPISQLServerAzure\obj\Debug\netcoreapp2.0\NETCoreWebAPISQLServerAzure.dll
+C:\Users\Enrique\source\repos\NETCoreWebAPISQLServerAzure\NETCoreWebAPISQLServerAzure\obj\Debug\netcoreapp2.0\NETCoreWebAPISQLServerAzure.pdb
